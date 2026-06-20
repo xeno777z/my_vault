@@ -4,3 +4,4 @@
 4. we only show version of exsiting files? or may be keep it for 30 days as clould bin?
 5. currently we are able to create a private or public repository in our app, we have that permission, but we need to test a permissions that we are not able to touch the repositoreis which we don't have access to? should we even keep this feature to create a repository inside the app? privacy?
 6. we should limit the permissions of our GitHub App Obsync2 to only include read permission to read public repsoitory, push only authorized repository
+7. we need to also peridoically do git fetch to show clould cahnges and ask user to sync
