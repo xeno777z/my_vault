@@ -1,0 +1,2 @@
+- [ ] currently we have a manual sync button which will push / pull (sync), this app is ment to be ran in the background without having to manual do anything, just launch as see the magic stuff user would just be on obidisan app once the vault is being set, they will just use obidsan app and expect to sync. we need a auto-sync mechanism which will peridiocally sync the notes to the cloud
+- [ ] if we have 2 platforms connected to github which is intented to sync notes to android and windows how are we handling merge conflitcs?
